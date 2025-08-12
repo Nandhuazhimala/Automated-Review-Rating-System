@@ -8,3 +8,5 @@ matplotlib==3.10.5
 seaborn==0.13.2
 scikit-learn==1.7.1
 notebook==7.4.4
+
+# Apple IPhone Customer Reviews using in Kaggle Datasets
